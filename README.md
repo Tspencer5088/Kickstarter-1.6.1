@@ -32,7 +32,7 @@ Outcomes based on Goal and expressed as a successful or failed line graph also s
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/112881617/194614349-cbd2de58-a604-49b1-b1d4-c2cab3235d68.png)
 
 
-### Challenges and Difficulties Encountered
+### Limitations and Recommendations for Additional Tables and Graphs
 
 While the dataset is fairly large and contains many data points worth investigating, there are some limitations. Instead of individual countries, each country divided by state or regional area would assist in pinpointing success rates for the specific area of interest to our particular fundraiser. With this data, any marketing or advertisement for the Kickstarter campaign could be targeted at areas with higher success rates and larger monetary donations.  A further limitation is the date range of the data. The most current date documented on the spreadsheet is May of 2017, over five (5) years behind our current date. While older data is still able to give insight, it must be recognized that dynamic global events may influence monetary data significantly. 
 
